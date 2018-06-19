@@ -26,4 +26,4 @@ Voici le contenu :
 - [Entités nommées](https://bigdataspeech.github.io/EN/)
 
 
-- [Chansons](https://bigdataspeech.github.io/Sing/)
+- [Activités "extra scolaires"](https://bigdataspeech.github.io/Sing/)
