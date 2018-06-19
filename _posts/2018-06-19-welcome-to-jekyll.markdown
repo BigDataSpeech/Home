@@ -24,5 +24,3 @@ Voici le contenu :
 - [Les entités nommées](https://bigdataspeech.github.io/EN/)
 
 
-- [Chansons](https://bigdataspeech.github.io/Sing/)
-
