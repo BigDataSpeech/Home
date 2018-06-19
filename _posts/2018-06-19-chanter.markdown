@@ -7,4 +7,4 @@ categories: contenu
 C'est l'école d'été Big Data Speech qui est organisée à Roscoff du 9 – 13 juillet 2018. 
 Toutes les informations relatives aux activités organisées en dehors des cours peuvent être trouvées ici. 
 
-- [Chansons](https://bigdataspeech.github.io/Sing/)
+- [Sorties](https://bigdataspeech.github.io/Sing/)
