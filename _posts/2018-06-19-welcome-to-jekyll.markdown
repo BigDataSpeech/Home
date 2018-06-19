@@ -9,6 +9,8 @@ Toutes les informations relatives à cette école d'été peuvent être trouvée
 
 Voici le contenu :
 
+- [Phonétique des corpus](https://bigdataspeech.github.io/AudioBooks/)
+
 - [Collecte et traitement de corpus oraux](https://bigdataspeech.github.io/Corpus/)
 
 
