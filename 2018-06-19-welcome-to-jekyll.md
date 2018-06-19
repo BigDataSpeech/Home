@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title:  Matériel de cours
 date:   2018-06-19 14:15:38 +0200
-categories: jekyll update
+categories: Home
 ---
 C'est l'école d'été Big Data Speech qui est organisée à Roscoff du 9 – 13 juillet 2018. 
 Toutes les informations relatives à cette école d'été peuvent être trouvées sur ce site. 
