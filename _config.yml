@@ -16,7 +16,7 @@
 title: Bienvenue à l'école d'été Big Data & Speech à Roscoff !
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-	Pour que vous puissez vous orienter facilement. 
+  Pour que vous puissiez vous orienter facilement. 
 baseurl: "Home" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
